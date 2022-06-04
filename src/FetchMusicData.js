@@ -55,7 +55,7 @@ const FetchMusicData = ()=>{
             method: 'GET',
             headers: {
                 'X-RapidAPI-Host': 'spotify23.p.rapidapi.com',
-                'X-RapidAPI-Key': '50ec1d7ee6msh459fcfbf83f7285p1812ccjsnc4cb67da2855'
+                'X-RapidAPI-Key': 'key goes here'
             }
         };
         
